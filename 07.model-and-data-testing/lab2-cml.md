@@ -11,6 +11,19 @@
 
 - script: `wine_linear_regression_test.py`
 
+**Permissions:**
+
+Make sue that the GitHub Actions have the permission to write in your repo, otherwise you will end up with an error.
+- Click on the `Settings` button on the right-hand side in your repo
+- Go to the menu on the left, click on the `Actions` and then on `General`.
+
+![](./assets/actions_permissions.png)
+
+- Go to the botom of the page and give `Read and write permission` to the workflow 
+
+
+![](./assets/workflow_permissions.png)
+
 **Instructions:**
 
 In previous lab we did all of our tests manually:
