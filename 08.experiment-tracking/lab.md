@@ -22,10 +22,6 @@
 8. Track some more experiments and compare the results.
 9. Explore the objects, saved by the `mlflow`.
 
-**Schema:**
-
-![Lab schema](./assets/lab_example.png)
-
 **External links:**
 
 - article [Experiment tracking with MLflow on Databricks Community Edition](https://www.adaltas.com/en/2020/09/10/databricks-community-edition-mlflow/)
