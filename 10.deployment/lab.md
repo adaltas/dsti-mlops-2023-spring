@@ -210,5 +210,6 @@ Then connect to your [azure portal](https://portal.azure.com/)
 ## If you want to go further
 
 - https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/
+- https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=applevel
 
 
