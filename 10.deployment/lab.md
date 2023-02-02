@@ -190,6 +190,7 @@ Then connect to your [azure portal](https://portal.azure.com/)
 ![pricing_plan](./assets/pricing_plan.png)
 	
 27. On the next page fill in the details about the Docker container you are deploying. 
+	- In **Image and tag** section, fill in your image name from Docker Hub.  
 
 ![container_details](./assets/container_details.png)
 
