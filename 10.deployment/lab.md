@@ -207,4 +207,8 @@ Then connect to your [azure portal](https://portal.azure.com/)
 - [Deploying Machine Learning Models with Flask and Docker](https://www.youtube.com/watch?v=KTd2a1QKlwo&list=WL&index=1)
 - [Tip 12: Deploying a container image to Azure App Service from Docker Hub](https://www.youtube.com/watch?v=_LNOg8kU4CE)
 
+## If you want to go further
+
+- https://learn.microsoft.com/en-us/training/modules/deploy-run-container-app-service/
+
 
