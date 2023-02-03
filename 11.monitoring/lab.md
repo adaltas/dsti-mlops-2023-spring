@@ -1,4 +1,4 @@
-## 6. Data drift detection and model degradation
+## Data drift detection and model degradation
 
 Today we will look at the example of model performance decay. We will be using library [evidently](https://evidentlyai.com/).
 
